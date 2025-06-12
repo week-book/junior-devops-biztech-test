@@ -31,7 +31,7 @@
 1. Клонируйте репозиторий:
 
 ```bash
-git clone https://github.com/your-username/junior-devops-biztech-test.git
+git clone https://github.com/week-book/junior-devops-biztech-test.git
 ```
 
 2. Перейдите в папку проекта:
@@ -57,5 +57,6 @@ pytest
 ## Автор
 
 Синицкий Даниил
+
 Кандидат на позицию Junior DevOps в Бизнес Технологии
 
